@@ -13,7 +13,7 @@
 [orbituary.com](https://orbituary.vercel.app/)  
 
 ## 📝 Project Description  
-The Cyber Obituary is a humorous memorial website dedicated to deleted AI assistants, obsolete robots, and lost digital identities. Visitors can browse funny obituaries, mourn or pray for these "fallen" digital heroes, and add their own comedic memorials stored locally in the browser.
+The Cyber Obituary is a humorous memorial website dedicated to deleted AI assistants, obsolete robots, and lost digital identities. All visitors can browse funny obituaries, mourn or pray for these "fallen" digital heroes, and add their own comedic memorials stored locally in the browser.
 
 ## 👨‍💻 Made By  
 - [Srinanth](https://github.com/Srinanth)  
